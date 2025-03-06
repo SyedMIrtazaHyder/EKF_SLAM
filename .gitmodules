@@ -1,3 +1,6 @@
 [submodule "EKF_SLAM/src/joint_state_publisher"]
 	path = EKF_SLAM/src/joint_state_publisher
 	url = https://github.com/ros/joint_state_publisher.git
+[submodule "EKF_SLAM/src/rqt_robot_steering"]
+	path = EKF_SLAM/src/rqt_robot_steering
+	url = https://github.com/ros-visualization/rqt_robot_steering.git
